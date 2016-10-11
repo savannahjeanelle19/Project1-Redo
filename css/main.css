@@ -1,0 +1,36 @@
+body {
+    background-color: #2F2F2F;
+}
+h1 {
+  color: purple;
+}
+p {
+  color:oldlace
+}
+img.galleryImage {
+  width:300px;
+    margin-left: auto;
+        margin-right: auto;
+}
+img.book {
+    width:150px;
+}
+h2 {
+    color:teal
+}
+img.pie {
+    width:150px;
+}
+img.pizza {
+    width:150px
+}
+img.nachos {
+    width:150px
+}
+.container {
+    margin:0 auto;
+    width:70%
+}
+ul {
+    color:oldlace
+}
